@@ -1,8 +1,8 @@
 a= "this is masud"
 
 # loop
-# for x in a:
-#     print(x)
+for x in a:
+     print(x)
 
 
 
